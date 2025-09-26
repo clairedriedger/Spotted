@@ -1,0 +1,18 @@
+{
+  "version": "0.2.1",
+  "defaults": {},
+  "configurations": [
+    {
+      "args": [
+        "book_flat3317.png",
+        "desk7813.png",
+        "sift"
+      ],
+      "type": "default",
+      "project": "CMakeLists.txt",
+      "projectTarget": "ObjectDetection.exe",
+      "name": "ObjectDetection.exe",
+      "currentDir": "${workspaceRoot}"
+    }
+  ]
+}
